@@ -1,0 +1,10 @@
+{
+"Nombre": "Javier",
+"Apellido": "Arenas",
+"FechaIngreso": "2020-10-10",
+"FechaSalida": "2023-10-10",
+"Sexo": "Masculino",
+"Ciudad": "Madrid",
+"Posición": "Ingeniero",
+"SalarioBase": 30000.0
+}
